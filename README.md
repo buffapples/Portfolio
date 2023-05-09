@@ -1,6 +1,6 @@
 # buffapple's Portfolio
 
-Greetings! Welcome to my portfolio of R work. These projects come from coursework that I have completed during my Master’s degree. This is to be used an avenue to showcase my work as well as centralize my code for future use.
+Greetings! Welcome to my portfolio of R work. On my GitHub Pages site, you will primarily find projects from coursework that I have completed during my Master’s degree. This is to be used an avenue to showcase my work as well as centralize my code for future use.
 
 <!-- PROJECT LOGO -->
 <br />
