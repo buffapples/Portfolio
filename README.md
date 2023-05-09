@@ -39,7 +39,7 @@ Greetings! Welcome to my portfolio of R work. On my GitHub Pages site, you will 
 
 
 <!-- ROADMAP -->
-## Roadmap
+### Roadmap
 
 See the [open issues](https://github.com/buffapples/Portfolio/issues) for a full list of proposed features (and known issues).
 
@@ -48,7 +48,7 @@ See the [open issues](https://github.com/buffapples/Portfolio/issues) for a full
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+### Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -67,13 +67,13 @@ Don't forget to give the project a star! Thanks again!
 
 
 <!-- CONTACT -->
-## Contact
+### Contact
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+### Acknowledgments
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
