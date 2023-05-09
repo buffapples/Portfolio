@@ -10,9 +10,6 @@ Greetings! Welcome to my portfolio of R work. On my GitHub Pages site, you will 
   </a>
 
 
-
-
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
