@@ -9,21 +9,7 @@ Greetings! Welcome to my portfolio of R work. On my GitHub Pages site, you will 
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
 
-  <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/buffapples/Portfolio"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/buffapples/Portfolio">View Demo</a>
-    ·
-    <a href="https://github.com/buffapples/Portfolio/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/buffapples/Portfolio/issues">Request Feature</a>
-  </p>
-</div>
 
 
 
