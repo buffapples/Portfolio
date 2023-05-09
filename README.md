@@ -6,7 +6,7 @@ Greetings! Welcome to my portfolio of R work. On my GitHub Pages site, you will 
 <br />
 <div align="center">
   <a href="https://github.com/buffapples/Portfolio">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="Portfolio-main/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 
