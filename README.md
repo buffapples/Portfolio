@@ -7,6 +7,7 @@ Greetings! Welcome to my portfolio of R work. On my GitHub Pages site, you will 
   <img src="https://github.com/buffapples/Portfolio/blob/main/Portfolio-main/logo.png" />
 </p>
 
+<br/><br/>
 <!-- TABLE OF CONTENTS -->
 
 <div align="left">
@@ -24,6 +25,8 @@ Greetings! Welcome to my portfolio of R work. On my GitHub Pages site, you will 
   </ol>
 </details>
 </div>
+
+<br/><br/>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
