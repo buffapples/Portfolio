@@ -1,0 +1,9 @@
+.shiny-frame{
+    width: 1800px;
+    height: 650px;
+  }
+.container-fluid {
+  margin-left: 0px !important;
+  padding-left: 50px !important;
+  padding-right: 50px !important;
+}
