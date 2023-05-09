@@ -2,9 +2,10 @@
 
 Greetings! Welcome to my portfolio of R work. On my GitHub Pages site, you will primarily find projects from coursework that I have completed during my Master’s degree. This is to be used an avenue to showcase my work as well as centralize my code for future use.
 
-[logo]: https://github.com/buffapples/Portfolio/blob/main/Portfolio-main/logo.png "Logo"
 
-![alt text][logo]
+<p align="center">
+  <img src="https://github.com/buffapples/Portfolio/blob/main/Portfolio-main/logo.png" />
+</p>
 
 <!-- TABLE OF CONTENTS -->
 <details>
