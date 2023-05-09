@@ -5,6 +5,7 @@ Greetings! Welcome to my portfolio of R work. On my GitHub Pages site, you will 
 [logo]: https://github.com/buffapples/Portfolio/blob/main/Portfolio-main/logo.png "Logo"
 
 ![alt text][logo]
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -18,14 +19,8 @@ Greetings! Welcome to my portfolio of R work. On my GitHub Pages site, you will 
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -45,26 +40,6 @@ Greetings! Welcome to my portfolio of R work. On my GitHub Pages site, you will 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-### Prerequisites
-
-
-### Installation
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -93,13 +68,6 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- LICENSE -->
-## License
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
