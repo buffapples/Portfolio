@@ -8,21 +8,22 @@ Greetings! Welcome to my portfolio of R work. On my GitHub Pages site, you will 
 </p>
 
 <!-- TABLE OF CONTENTS -->
+
+<div align="left">
 <details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+    <li><a href="#built-with">Built With</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
-
-
+</div>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
